@@ -1,0 +1,2 @@
+This repository demonstrates a common Groovy error: a NullPointerException resulting from using string interpolation with a null variable.
+The `Bug.groovy` file shows the erroneous code.  The `Solution.groovy` file demonstrates safe handling of potential nulls using Groovy's elvis operator(?:).
